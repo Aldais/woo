@@ -1,0 +1,4 @@
+[submodule "OCA/connector-woocommerce"]
+	path = OCA/connector-woocommerce
+	url = git@github.com:OCA/connector-woocommerce.git
+	branch = 10.0
